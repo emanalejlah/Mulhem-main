@@ -1,0 +1,169 @@
+/*
+  Localizable.strings
+  Molhem
+
+  Created by nura on 12/11/1444 AH.
+
+*/
+"VIP"="مميز";
+"Buy VIP to enjoy more privileges" = "اشتراكات خاصة للإستمتاع بمزيد من الإمتيازات";
+"I’m Nura your AI companion"="انا نورا مساعدك الذكي الشخصي";
+
+//"I’m Nura your AI companion wanna chat with me?"="انا نورا مساعدك الذكي الشخصي ، هل تريد التحدث معي ؟";
+"wanna chat with me?" = " هل تريد الدردشة معي؟";
+"Vision 2030" = "رؤية 2030";
+"Get Inspired for Saudi Vision 2030 projects" = " استلهم من مشاريع رؤية السعودية 2030" ;
+"Recreate"="أعد الصياغة";
+"Make your ads better and recreate it with our AI"="اجعل إعلاناتك أفضل وأعد صياغتها بالذكاء الاصطناعي
+";
+"Refine"="نمق";
+"Refine your Ideas and touch up your sentences"="نمق أفكارك وحسن جملك";
+"Generate"="أنتج";
+" Generate Ideas using AI and get inspiration from it"="نسق أفكارك واستوحي من الذكاء الاصطناعي";
+
+
+"Hi"="مرحبا";
+
+"Buy VIP to enjoy more privileges"="اشتراكات خاصه للاستمتاع بمزيد من الامتيازات";
+"The Red Sea"="البحر الأحمر ";
+"Diriyah Gate"="بوابة الدرعية";
+"Green Riyadh"="الرياض الخضراء";
+"AMAALA"="أمالا";
+"NEOM"="نيوم";
+"Riyadh Art"="رياض الفن";
+"Qiddiya Project"="مشروع القدية";
+"Yearly"="سنوي";
+"Monthly"="شهري";
+"Weekly"="إسبوعي";
+"save up"="وفر";
+"Try VIP for unlimited chats"="جرب الاشتراكات الخاصة للمحادثات الغير محدودة";
+"Generate"="إنشاء";
+"Simulate"="محاكاه";
+"Make it"="اجعل النص";
+"Project"="مشروع";
+"Tourism"="سياحة";
+"Entertainment"="ترفية";
+"Investment"="استثمار";
+"Sports"="رياضة";
+"Hospitality"="ضيافة";
+"fun"="مرح";
+"Professional"="إحترافي";
+"Happy"="مرح";
+"Friendly"="لطيف";
+"Smart"="ذكي";
+"I want"="اريد";
+"for an"="لـ";
+"That"="يخص";
+"Generate Idea"="إنشاء فكرة";
+"Back"="الخلف";
+"Project"="مشروع";
+"Create"="أنتج";
+"About your Business"="حول مشروعك";
+"Your marketing goal"="هدفك التسويقي";
+"Create Text"="النص المنشئ";
+"Privacy and policy"="الخصوصية و الأمان";
+"VIP Subscription"="الاشتراكات المميزة";
+"Revolutionize Your Communication with the Ultimate AI Assistant"="قم بإحداث ثورة في اتصالاتك مع مساعدك الشخصي الذكي
+";
+"Maximize Your Productivity with AI"="حقق اقصى قدر من الانتاجية مع الذكاء الإصطناعي";
+"Unlimited Chat"="دردشه غير محدودة";
+"Advanced Lab Features"="المميزات المعملية المتقدمة";
+"Experience Ad-Free"="تجربة خالية من الإعلانات";
+"    Distraction-Free"="";
+"Buy Now"="اشتر الأن";
+"Restore"="إعادة";
+"What is your name?"="ماهو اسمك؟
+";
+"Your name"="الإسم";
+"Start"="ابدا";
+"Type here …."="اكتب هنا …";
+"Word"="كلمة";
+"Nura"="نورا";
+"Molhem"="ملهم";
+"About Saudi"="عن السعودية";
+
+
+
+//"I’m Nura your AI companion wanna chat with me?"="انا نورا مساعدك الذكي الشخصي ، هل تريد التحدث معي ؟";
+"Hi"="مرحبا";
+"Learn and get more info about Saudi Arabia"="تعرف على المزيد واحصل على معلومات عن المملكة العربية السعودية";
+"Welcome to My App"="مرحبا بك في تطبيقي";
+"Go to Detail"="لمزيد من التفاصيل";
+"Home"="الرئيسيه";
+"Enter name"="الاسم";
+"Save"="حفظ";
+"Type Here..."="اكتب هنا";
+
+"No chat history available at the moment"="لا تتوفر سجل المحادثة في الوقت الحالي";
+"Chat History"="حذف السجل";
+"DISSMIS"="إغلاق";
+
+"Select Your Project"="اختر مشروعك";
+"For"="لـ";
+"Refined text"="النص المنمق";
+"About your business"="عن مشروعك";
+"Your markiting goal"="هدفك التسويقي";
+//"Make it"="اجعله";
+"ReCreated text"="النص المعاد إنشاؤه";
+"ReCreate"="تعديل";
+//"\(countString)/100 Word"="١٠٠ كلمه";
+"To get an accurate response make your sentence more than 3 words"="للحصول على استجابة دقيقة، يُفضل أن يكون جملتك مكونة من أكثر من 3 كلمات";
+"Word"="كلمه";
+"Riyadh is the capital city of Saudi Arabia, located in the heart of the Arabian Peninsula. It is a bustling metropolis known for its modern skyline, rich history, cultural attractions, and being a major center for business, commerce, and diplomacy in the region."="الرياض هي عاصمة المملكة العربية السعودية، وتقع في قلب شبه الجزيرة العربية. إنها مدينة حديثة نابضة بالحياة مع أفقها الحديث، وتاريخها الغني، ومعالمها الثقافية، وكونها مركزًا رئيسيًا للأعمال والتجارة والدبلوماسية في المنطقة.";
+"Learn More About.."="تعرف على المزيد عن...";
+"Riyadh"="الرياض";
+"Jubail is a city in Saudi Arabia, situated along the eastern coast of the Arabian Peninsula. It is renowned for its industrial significance, housing one of the world's largest petrochemical complexes. With its vibrant economy, stunning waterfront, and recreational facilities, Jubail attracts both local residents and international visitors."="جبيل هي مدينة في المملكة العربية السعودية، تقع على الساحل الشرقي لشبه الجزيرة العربية. وتشتهر بأهميتها الصناعية، حيث تضم أحد أكبر المجمعات البتروكيماوية في العالم. بفضل اقتصادها النابض بالحياة، وجمال طرفها المائي، وتوفر مرافق الترفيه، تجذب جبيل السكان المحليين والزوار الدوليين على حد سواء.";
+"Select"="اختر";
+"Yanbu is a coastal city in Saudi Arabia, located on the Red Sea coast. It is known for its thriving port, oil refineries, and petrochemical industries. Yanbu offers beautiful beaches, a picturesque corniche, and a rich history showcased in its old town, making it a popular tourist destination."="ينبع هي مدينة ساحلية في المملكة العربية السعودية، تقع على ساحل البحر الأحمر. تشتهر بمينائها النشط ومصافي النفط والصناعات البتروكيماوية. توفر ينبع شواطئ جميلة وكورنيش ساحر وتاريخ غني يتجلى في المدينة القديمة، مما يجعلها وجهة سياحية شهيرة.";
+"Jeddah is a vibrant city in Saudi Arabia, situated on the Red Sea coast. It is a major commercial hub, known for its bustling seaport and cosmopolitan atmosphere. Jeddah boasts stunning architecture, including the iconic King Fahd Fountain, and is famous for its historic district, bustling markets, delicious cuisine, and beautiful waterfront."="جدة هي مدينة حيوية في المملكة العربية السعودية، تقع على ساحل البحر الأحمر. إنها مركز تجاري رئيسي، مشهورة بميناءها النشط وأجوائها العالمية. تتميز جدة بعمارتها الرائعة، بما في ذلك نافورة الملك فهد الشهيرة، وتشتهر بحيها التاريخي، وأسواقها النابضة بالحياة، ومأكولاتها الشهية، وشاطئها الجميل.";
+"Makkah, also known as Mecca, is the holiest city in Islam, located in Saudi Arabia. It is the birthplace of Prophet Muhammad and home to the Kaaba, the most sacred site in Islam. Each year, millions of Muslims undertake the Hajj pilgrimage to Makkah, visiting landmarks like the Masjid al-Haram and the Zamzam Well. Makkah holds immense religious and historical significance and is a place of spiritual devotion and unity for Muslims worldwide."="مكة المكرمة، المعروفة أيضًا باسم مكة، هي أقدس مدينة في الإسلام، وتقع في المملكة العربية السعودية. إنها مسقط رأس النبي محمد وموطن الكعبة المشرفة، أعظم المواقع المقدسة في الإسلام. كل عام، يقوم الملايين من المسلمين بأداء فريضة الحج في مكة، حيث يزورون معالم مثل المسجد الحرام وبئر زمزم. تحمل مكة أهمية دينية وتاريخية عظيمة وتعد مكانًا للتفاني الروحي والوحدة للمسلمين في جميع أنحاء العالم.";
+"Professional"="محترف";
+"Casual"="عفوي";
+
+"Idea"="فكره";
+"Name"="اسم";
+"Plan"="خطه";
+"App"="تطبيق";
+"Book"="كتاب";
+"Business"="مشروع";
+"Website"="موقع الكتروني";
+"Place"="مكان";
+"Social Media Post"="منشور على وسائل التواصل الاجتماعي";
+"Research Paper"="بحث ورقي";
+"Historical Landmarks"="معالم تاريخية";
+"Local Festivals and Events"="المهرجانات والأحداث المحلية";
+"Famous Personalities"="شخصيات مشهورة";
+"Local Cuisine and Food Culture"="المأكولات المحلية وثقافة الطعام";
+"Urban Development"="تطوير الحضري";
+"Sad"="حزين";
+"Revolutionize YourCommunication with the Ultimate AI Assistant"="قم بإحداث ثورة في اتصالاتك\n مع مساعدك الشخصي الذكي";
+"Unlimited Chat \n Advanced Lab Features \n Experience Ad-Free"="دردشه غير محدودة \n المميزات المعملية المتقدمة \n تجربة خالية من الإعلانات";
+"Cost-effective"="التكلفه الفعاله";
+"Welcome to the app Platform The Platform is provided and controlled by insight Pte. Ltd., with its registered address We are committed to protecting and respecting your privacy. This policy explains our practices concerning the personal data we collect from you, or that you provide to us. If you do not agree with this policy, you should not use the Platform."="مرحبًا بك في منصة التطبيق. تُقدَّم المنصة وتُديرها شركة إنسايت المحدودة، بعنوانها المسجل. نحن ملتزمون بحماية خصوصيتك واحترامها. يشرح هذا السياسة ممارساتنا فيما يتعلق بالبيانات الشخصية التي نجمعها منك أو التي تقدمها لنا. إذا لم توافق على هذه السياسة، يجب عليك عدم استخدام المنصة.";
+"Contact Us"="تواصل معنا";
+"Settings"="الاعدادات";
+"Makkah"="مكه";
+"Jubail"="الجبيل";
+"Jeddah"="جده";
+"Yanbu"="ينبع";
+
+"    I’m Nura your AI companion wanna \n chat with me?"=" انا نورا مساعدك الذكي الشخصي \n هل تريد التحدث معي ؟";
+//"""
+//                  I’m Nura your AI companion
+//                  wanna chat with me?
+//                  """
+"You Have Only"="لديك فقط";
+
+"Revolutionize Your Communication with the  Ultimate AI Assistant"="أحدث ثورة في ابتكاراتك مع مساعد الذكاء الاصطناعي الافضل";
+"Unlimited chats with Nura AI"="دردشة غير محدودة مع نورا";
+"Unlimited access to AI tools"="وصول غير محدود إلى أدوات الذكاء الاصطناعي";
+"Restore Purchases"="اعادة المشتريات";
+"Type here..."="اكتب هنا...";
+"Generated text"="النص المنشئ";
+"Select"="اختر";
+
+
+"Hey I'M Nora"="اهلا انا نورا";
+"Yearly" = "سنوي";
+"Monthly" = "شهري";
+"Weekly" = "اسبوعي";
